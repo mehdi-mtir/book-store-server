@@ -2,19 +2,27 @@
   "books": [
     {
       "id": 1,
-      "titre": "book1 modifie"
+      "titre": "The slight Edge",
+      "auteur": "Jeff Olsen",
+      "favori": false
     },
     {
       "id": 2,
-      "titre": "book2"
+      "titre": "Harry Potter",
+      "auteur": "J.K. Roling",
+      "favori": false
     },
     {
       "id": 3,
-      "titre": "book3"
+      "titre": "test",
+      "auteur": "test auteur",
+      "favori": false
     },
     {
-      "title": "Fetch POST Request Example",
-      "id": 4
+      "id": 4,
+      "titre": "nouveau livre",
+      "auteur": "inconnu",
+      "favori": false
     }
   ]
 }
