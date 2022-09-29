@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "titre": "book1 modifie"
+    },
+    {
+      "id": 2,
+      "titre": "book2"
+    },
+    {
+      "id": 3,
+      "titre": "book3"
+    },
+    {
+      "title": "Fetch POST Request Example",
+      "id": 4
+    }
+  ]
+}
